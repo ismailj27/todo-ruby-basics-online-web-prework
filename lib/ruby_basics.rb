@@ -19,8 +19,7 @@ def return_a_value(phrase)
 end
 
 def last_evaluated_value(phrase2)
-  phrase2 = "expert"
-  return phrase2
+  return "expert"
 end
 
 def pizza_party(varb3 = "cheese")
