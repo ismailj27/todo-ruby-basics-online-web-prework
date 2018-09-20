@@ -15,8 +15,7 @@ def greeting(varb1, varb2)
 end
 
 def return_a_value(phrase)
-  phrase = "Nice"
-  return phrase
+  return "Nice"
 end
 
 def last_evaluated_value(phrase2)
