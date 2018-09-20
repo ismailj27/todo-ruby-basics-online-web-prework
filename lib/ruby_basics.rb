@@ -14,11 +14,11 @@ def greeting(varb1, varb2)
   
 end
 
-def return_a_value(phrase)
+def return_a_value
   return "Nice"
 end
 
-def last_evaluated_value(phrase)
+def last_evaluated_value
   return "expert"
 end
 
