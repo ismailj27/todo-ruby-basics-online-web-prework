@@ -7,11 +7,11 @@ def assign_variable(value)
 end
 
 def argue(varb)
-  
+  return varb
 end
 
 def greeting(varb1, varb2)
-
+  
 end
 
 def return_a_value(phrase)
